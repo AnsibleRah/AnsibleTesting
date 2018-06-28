@@ -1,0 +1,4 @@
+---
+ - hosts: grp1
+   var:
+    username: user1
